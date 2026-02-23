@@ -15,7 +15,7 @@ python project1.py https://example.com
 
 **Learning:** Web scraping basics, HTTP requests, HTML parsing, command-line input handling.
 
-## 📄 Project 2 – Document Similarity Checker
+##  Project 2 – Document Similarity Checker
 
 **Description:**
 Compares two documents by processing their text, hashing words, and generating fingerprints using SimHash to detect similar or near-duplicate content.
