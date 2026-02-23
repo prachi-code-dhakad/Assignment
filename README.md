@@ -23,6 +23,6 @@ Compares two documents by processing their text, hashing words, and generating f
 **Tech Used:** Python, built-in libraries, hashing techniques
 
 **Run:**
-python project2.py <url1> <url2>
+python project2.py url1 url2
 
 **Learning:** Text processing, hashing concepts, and efficient document comparison.
