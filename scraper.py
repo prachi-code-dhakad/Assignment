@@ -55,4 +55,5 @@ for link_tag in all_links:
     if href and href not in links_seen:
         if not href.startswith("#"):
             print(href)
+
             links_seen.add(href)
